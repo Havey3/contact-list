@@ -1,0 +1,25 @@
+{
+  "contact": [
+    {
+      "firstName": "Joshua",
+      "lastName": "Havey",
+      "address": "1231 Huntington Ave",
+      "phone": "304-989-4170",
+      "id": 1
+    },
+    {
+      "firstName": "Ray",
+      "lastName": "Hammock",
+      "address": "Rayhammock@yahoo",
+      "phone": "304-610-2322",
+      "id": 2
+    },
+    {
+      "firstName": "Justin",
+      "lastName": "dklajd",
+      "address": "alsdkjasd",
+      "phone": "asldkja",
+      "id": 3
+    }
+  ]
+}
